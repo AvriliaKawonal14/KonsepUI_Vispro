@@ -1,0 +1,11 @@
+C:\Users\avril\source\repos\konsepUI_AvriliaKawonal\konsepUI_AvriliaKawonal\bin\Debug\konsepUI_AvriliaKawonal.exe.config
+C:\Users\avril\source\repos\konsepUI_AvriliaKawonal\konsepUI_AvriliaKawonal\bin\Debug\konsepUI_AvriliaKawonal.exe
+C:\Users\avril\source\repos\konsepUI_AvriliaKawonal\konsepUI_AvriliaKawonal\bin\Debug\konsepUI_AvriliaKawonal.pdb
+C:\Users\avril\source\repos\konsepUI_AvriliaKawonal\konsepUI_AvriliaKawonal\obj\Debug\konsepUI_AvriliaKawonal.csproj.AssemblyReference.cache
+C:\Users\avril\source\repos\konsepUI_AvriliaKawonal\konsepUI_AvriliaKawonal\obj\Debug\konsepUI_AvriliaKawonal.Form1.resources
+C:\Users\avril\source\repos\konsepUI_AvriliaKawonal\konsepUI_AvriliaKawonal\obj\Debug\konsepUI_AvriliaKawonal.Properties.Resources.resources
+C:\Users\avril\source\repos\konsepUI_AvriliaKawonal\konsepUI_AvriliaKawonal\obj\Debug\konsepUI_AvriliaKawonal.csproj.GenerateResource.cache
+C:\Users\avril\source\repos\konsepUI_AvriliaKawonal\konsepUI_AvriliaKawonal\obj\Debug\konsepUI_AvriliaKawonal.csproj.CoreCompileInputs.cache
+C:\Users\avril\source\repos\konsepUI_AvriliaKawonal\konsepUI_AvriliaKawonal\obj\Debug\konsepUI_AvriliaKawonal.exe
+C:\Users\avril\source\repos\konsepUI_AvriliaKawonal\konsepUI_AvriliaKawonal\obj\Debug\konsepUI_AvriliaKawonal.pdb
+C:\Users\avril\source\repos\konsepUI_AvriliaKawonal\konsepUI_AvriliaKawonal\obj\Debug\konsepUI_AvriliaKawonal.loginForm.resources
